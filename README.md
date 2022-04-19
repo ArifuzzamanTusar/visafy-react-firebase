@@ -1,3 +1,8 @@
+# Start
+If you want to clone this project, please create a new Firebase Project and change the credentials
+
+##### Navigate `src/firebase.init.js` and change the values to yours
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
