@@ -1,0 +1,18 @@
+.service_card{
+   
+    position: relative;
+    border-radius: 15px;
+}
+
+.service_image img{
+    transition: 0.5s;
+    height: 300px ;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 15px;
+}
+.service_image img:hover{
+    opacity: 0.8;
+    border-radius: 0px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.089);
+}

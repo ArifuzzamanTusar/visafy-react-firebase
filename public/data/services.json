@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Skilled Worker Visa",
+        "short_disc": "For the persons whose jobs require a minimum work experience that are not temporary or seasonal.",
+        "image": "https://i.ibb.co/s2P6WJs/carter-yocham-tn-YWFvk-fr-U-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Business Immigration Visa",
+        "short_disc": "People who want to invest in, or start businesses abroad. Expected to support the development.",
+        "image": "https://i.ibb.co/s2P6WJs/carter-yocham-tn-YWFvk-fr-U-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Green Card",
+        "short_disc": "We consult for the permanent residents visa documents issued to immigrants under the Immigration.",
+        "image": "https://i.ibb.co/s2P6WJs/carter-yocham-tn-YWFvk-fr-U-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Student Visa",
+        "short_disc": "We guide our clients for the perception & better career opportunities for the students, Overseas services",
+        "image": "https://i.ibb.co/s2P6WJs/carter-yocham-tn-YWFvk-fr-U-unsplash.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Work Permit",
+        "short_disc": "Permit To Work refers to management systems used to ensure that work is done safely and efficiently.",
+        "image": "https://i.ibb.co/s2P6WJs/carter-yocham-tn-YWFvk-fr-U-unsplash.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Visitor Visa",
+        "short_disc": "Visas for the people who want to travel to and enter as a visitor for up to 6 months. We stick the visitor visa.",
+        "image": "https://i.ibb.co/s2P6WJs/carter-yocham-tn-YWFvk-fr-U-unsplash.jpg"
+    }
+]
